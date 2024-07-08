@@ -1,0 +1,17 @@
+.card-img-top{
+    border: 3px solid black;
+}
+.product{
+    padding-left: 300px;
+    padding-top: 50px;
+ background-color: rgb(190, 189, 189);
+}
+.card-title{
+    padding-left: 70px;;
+}
+.card-text{
+    padding-left: 90px;
+}
+.button{
+    padding-left: 70px;
+}
